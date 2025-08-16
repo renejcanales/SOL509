@@ -1,1 +1,3 @@
-Bourdieu - La Distinción 
+# Clases
+
+[Pierre Bourdieu - La Distinción (1979)] 

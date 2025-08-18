@@ -1,0 +1,53 @@
+---
+pagetitle: "Ayudantía Bourdieu"
+Author: René Canales
+lang: es
+knitr:
+  opts_chunk:
+    collapse: true
+    comment: "#>"
+    R.options:
+      
+      knitr.graphics.auto_pdf: true
+format:
+  revealjs:
+    #logo: images/puc.png
+    slide-number: true
+    theme: "libs/tesis.scss"
+    auto-stretch: false
+    title-slide-attributes:
+      visibility: false
+    transition: fade
+    transition-speed: slow
+# data-background-image: images/cover.jpg
+# data-background-size: cover
+    auto-play-media: true
+    mathjax: "default"
+  pdf:
+    format: beamer 
+    keep-tex: true  # Debug LaTeX output if needed
+editor_options: 
+  chunk_output_type: console
+---
+
+:::::: columns
+::: {.column width="20%"}
+![](images/lisa.png) 
+![](images/ocs.png)
+:::
+
+:::: {.column .column-right width="80%"}
+# **La Distinción (1979)** <br> **Pierre Bourdieu**
+
+------------------------------------------------------------------------
+
+**René Canales Sellés** <br> **Magister(c) en Sociología UC** <br> **Investigador Asistente COES**
+
+::: {.red2 .medium}
+**Instituto de Sociología, Pontificia Universidad Católica de Chile**
+:::
+
+SOL509-1 Teorías Sociológicas Relacionales
+
+29 de agosto, 2025
+::::

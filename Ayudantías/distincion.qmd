@@ -32,7 +32,8 @@ editor_options:
 
 :::::: columns
 ::: {.column width="20%"}
-![](images/lisa.png) 
+![](images/lisa.png)
+
 ![](images/ocs.png)
 :::
 
@@ -51,3 +52,4 @@ SOL509-1 Teorías Sociológicas Relacionales
 
 29 de agosto, 2025
 ::::
+::::::

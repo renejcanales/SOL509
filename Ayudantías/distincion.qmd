@@ -53,3 +53,98 @@ SOL509-1 Teorías Sociológicas Relacionales
 29 de agosto, 2025
 ::::
 ::::::
+
+# Capital Simbólico
+
+::: {.incremental .highlight-last style="font-size: 100%;"}
+
+- Intercambio de Dones -> Mauss y la obligación
+
+- El trabajo investido en una actividad se presenta como función equivalente en términos de intercambio
+
+- Se institucionaliza la obligación de dar en ciertos términos como una **"fría paga al contado"**
+
+    * Economicismo:  la institucionalización del capital económico como medio válido de intercambio oculta las demás relaciones
+      - Fetichismo de la Mercancía en Marx -> Desconoce otras formas de intercambio
+    * El materialismo para Bourdieu no está completo si no se contemplan aquellas estructuras que dan forma a las realidades concretas: hay una economía moral que rodea la comodificación. 
+    
+- Sin embargo, este capital es **negado**, aunque es central para la circulación de capital total. Están intrínsecamente mezclados (Bourdieu, p.189)
+
+:::
+
+## ¿Qué es entonces el capital simbólico?
+
+### Un valor entredicho que marca la diferencia **alrededor** del capital económico
+
+::: {.incremental style="font-size: 90%;"}
+
+- Bourdieu (p.190), presenta al capital simbólico como un **crédito** en el sentido que entrega **credibilidad**. 
+
+- En estudios sobre estratificación se habla de **prestigio** o **estatus** [Barone et al., 2022]
+
+    * Por ejemplo:  Los arreglos matrimoniales no se basan únicamente en términos de cantidad (lo que tiene cada familia) sino en la calidad (temas como el honor o la dignidad son más valiosos en muchos casos)
+    * Tres ejemplos muy buenos:
+      - Zhou & Xie (2019): Cómo las restricciones de movilidad en la China post-revolucionaria impactaron en la movilidad social.
+      - Michelman et al. (2021): Estudio sobre el impacto que tienen los old boys clubs en universidades de elite sobre la movilidad social.
+      - Chetty et al. (2022): Estudio con base de datos construida a partir de interacciones en redes sociales.
+      
+:::
+
+# La Distinción {data-background-color="#5f5758"}
+
+## El Gusto...o más bien el **disgusto**, porque
+
+::: {.incremental .highlight-last style="font-size: 120%;"}
+
+- "Los gustos son, ante todo, disgustos, vienen del horror o la intolerancia visceral hacia los gustos de los demás" (Bourdieu, p.55)
+
+- El gusto, para Bourdieu, se define como una disposición que te distingue del resto.
+
+    * Marca una diferencia en la evaluación del mundo social y sus valores
+    * Entrega una disposición y uso de la orientación
+
+- Acá nace un enorme dolor de cabeza...
+
+:::
+
+# **El Habitus**
+
+::: {.incremental .highlight-last style="font-size: 100%;"}
+
+![](images/meme.png)
+:::
+
+## ¿Qué es **el Habitus**?
+
+::: {.incremental .highlight-last style="font-size: 110%;"}
+
+- En simple, es un sistema de disposiciones duraderas y transferibles que los individuos interiorizan y que les predispone a percibir, sentir, actuar y **reproducir** en el mundo social de manera coherente.
+
+- O como dice Bourdieu...
+
+    * Estructuras estructurantes estructuradas
+      * Estructuras: *Disposiciones*
+      * Estructurantes: Porque *clasifica* el mundo social
+      * Estructuradas: Porque son *sólidas*, difíciles de transformar
+
+- De acá viene, en parte, la frase que nos condena: **"todo es una construcción social"**
+
+:::
+
+## Volvamos un segundo...
+
+::: {.incremental .highlight-last style="font-size: 110%; padding: 1.5em;"}
+
+- Estructurantes: Porque **clasifican** el mundo social
+
+- Bourdieu dice que las ciencias sociales normalmente se han enfocado en **la relación** entre entructuras más que en su **origen**
+
+- Y nos dice algo clave: las estructuras incorporadas **existen al margen de la agencia**
+
+    * Nuestras maneras de **enclasar** el mundo son un producto de estas estructuras, y se refuerzan con el sentido que les damos a partir de nuestra comprensión de estas.
+    * Esto genera un mundo social potencial que a su vez nos orienta.
+
+- ...les juro que suena más complicado de lo que es xd
+
+:::
+

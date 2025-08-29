@@ -57,19 +57,17 @@ SOL509-1 Teorías Sociológicas Relacionales
 # Capital Simbólico
 
 ::: {.incremental .highlight-last style="font-size: 100%;"}
+-   Intercambio de Dones -\> Mauss y la obligación
 
-- Intercambio de Dones -> Mauss y la obligación
+-   El trabajo investido en una actividad se presenta como función equivalente en términos de intercambio
 
-- El trabajo investido en una actividad se presenta como función equivalente en términos de intercambio
+-   Se institucionaliza la obligación de dar en ciertos términos como una **"fría paga al contado"**
 
-- Se institucionaliza la obligación de dar en ciertos términos como una **"fría paga al contado"**
+    -   Economicismo: la institucionalización del capital económico como medio válido de intercambio oculta las demás relaciones
+        -   Fetichismo de la Mercancía en Marx -\> Desconoce otras formas de intercambio
+    -   El materialismo para Bourdieu no está completo si no se contemplan aquellas estructuras que dan forma a las realidades concretas: hay una economía moral que rodea la comodificación.
 
-    * Economicismo:  la institucionalización del capital económico como medio válido de intercambio oculta las demás relaciones
-      - Fetichismo de la Mercancía en Marx -> Desconoce otras formas de intercambio
-    * El materialismo para Bourdieu no está completo si no se contemplan aquellas estructuras que dan forma a las realidades concretas: hay una economía moral que rodea la comodificación. 
-    
-- Sin embargo, este capital es **negado**, aunque es central para la circulación de capital total. Están intrínsecamente mezclados (Bourdieu, p.189)
-
+-   Sin embargo, este capital es **negado**, aunque es central para la circulación de capital total. Están intrínsecamente mezclados (Bourdieu, p.189)
 :::
 
 ## ¿Qué es entonces el capital simbólico?
@@ -77,74 +75,157 @@ SOL509-1 Teorías Sociológicas Relacionales
 ### Un valor entredicho que marca la diferencia **alrededor** del capital económico
 
 ::: {.incremental style="font-size: 90%;"}
+-   Bourdieu (p.190), presenta al capital simbólico como un **crédito** en el sentido que entrega **credibilidad**.
 
-- Bourdieu (p.190), presenta al capital simbólico como un **crédito** en el sentido que entrega **credibilidad**. 
+-   En estudios sobre estratificación se habla de **prestigio** o **estatus** \[Barone et al., 2022\]
 
-- En estudios sobre estratificación se habla de **prestigio** o **estatus** [Barone et al., 2022]
-
-    * Por ejemplo:  Los arreglos matrimoniales no se basan únicamente en términos de cantidad (lo que tiene cada familia) sino en la calidad (temas como el honor o la dignidad son más valiosos en muchos casos)
-    * Tres ejemplos muy buenos:
-      - Zhou & Xie (2019): Cómo las restricciones de movilidad en la China post-revolucionaria impactaron en la movilidad social.
-      - Michelman et al. (2021): Estudio sobre el impacto que tienen los old boys clubs en universidades de elite sobre la movilidad social.
-      - Chetty et al. (2022): Estudio con base de datos construida a partir de interacciones en redes sociales.
-      
+    -   Por ejemplo: Los arreglos matrimoniales no se basan únicamente en términos de cantidad (lo que tiene cada familia) sino en la calidad (temas como el honor o la dignidad son más valiosos en muchos casos)
+    -   Tres ejemplos muy buenos:
+        -   Zhou & Xie (2019): Cómo las restricciones de movilidad en la China post-revolucionaria impactaron en la movilidad social.
+        -   Michelman et al. (2021): Estudio sobre el impacto que tienen los old boys clubs en universidades de elite sobre la movilidad social.
+        -   Chetty et al. (2022): Estudio con base de datos construida a partir de interacciones en redes sociales.
 :::
 
 # La Distinción {data-background-color="#5f5758"}
 
+::: {.incremental .highlight-last style="font-size: 80%;"}
+Lindas naves, lindas nena'
+
+Y en verda' eso no me llena
+
+Aunque el mono vista seda
+
+**Vo sa'i, mandril se queda**
+
+El dinero trae perra', las perra' traen problema'
+
+No he caza'o par de gile' porque aún están en beta
+
+Los cabro' traen guacha, los Meche traen prenda'
+
+Yo nunca pago culo pero mi amiga lo arrienda
+
+**No espero que tú entienda' y tampoco comprenda'** 
+
+**Este estilo de vida que pa' otro es solo mierda**
+
+<br>
+
+**Pablo Chill-e ft. Galee Galee (QEPD).**
+:::
+
 ## El Gusto...o más bien el **disgusto**, porque
 
 ::: {.incremental .highlight-last style="font-size: 120%;"}
+-   "Los gustos son, ante todo, disgustos, vienen del horror o la intolerancia visceral hacia los gustos de los demás" (Bourdieu, p.55)
 
-- "Los gustos son, ante todo, disgustos, vienen del horror o la intolerancia visceral hacia los gustos de los demás" (Bourdieu, p.55)
+-   El gusto, para Bourdieu, se define como una disposición que te distingue del resto.
 
-- El gusto, para Bourdieu, se define como una disposición que te distingue del resto.
+    -   Marca una diferencia en la evaluación del mundo social y sus valores
+    -   Entrega una disposición y uso de la orientación
 
-    * Marca una diferencia en la evaluación del mundo social y sus valores
-    * Entrega una disposición y uso de la orientación
-
-- Acá nace un enorme dolor de cabeza...
-
+-   Acá nace un enorme dolor de cabeza...
 :::
 
 # **El Habitus**
 
 ::: {.incremental .highlight-last style="font-size: 100%;"}
-
 ![](images/meme.png)
 :::
 
 ## ¿Qué es **el Habitus**?
 
 ::: {.incremental .highlight-last style="font-size: 110%;"}
+-   En simple, es un sistema de disposiciones duraderas y transferibles que los individuos interiorizan y que les predispone a percibir, sentir, actuar y **reproducir** en el mundo social de manera coherente.
 
-- En simple, es un sistema de disposiciones duraderas y transferibles que los individuos interiorizan y que les predispone a percibir, sentir, actuar y **reproducir** en el mundo social de manera coherente.
+-   O como dice Bourdieu...
 
-- O como dice Bourdieu...
+    -   Estructuras estructurantes estructuradas
+        -   Estructuras: *Disposiciones*
+        -   Estructurantes: Porque *clasifica* el mundo social
+        -   Estructuradas: Porque son *sólidas*, difíciles de transformar
 
-    * Estructuras estructurantes estructuradas
-      * Estructuras: *Disposiciones*
-      * Estructurantes: Porque *clasifica* el mundo social
-      * Estructuradas: Porque son *sólidas*, difíciles de transformar
-
-- De acá viene, en parte, la frase que nos condena: **"todo es una construcción social"**
-
+-   De acá viene, en parte, la frase que nos condena: **"todo es una construcción social"**
 :::
 
 ## Volvamos un segundo...
 
 ::: {.incremental .highlight-last style="font-size: 110%; padding: 1.5em;"}
+-   Estructurantes: Porque **clasifican** el mundo social
 
-- Estructurantes: Porque **clasifican** el mundo social
+-   Bourdieu dice que las ciencias sociales normalmente se han enfocado en **la relación** entre entructuras más que en su **origen**
 
-- Bourdieu dice que las ciencias sociales normalmente se han enfocado en **la relación** entre entructuras más que en su **origen**
+-   Y nos dice algo clave: las estructuras incorporadas **existen al margen de la agencia**
 
-- Y nos dice algo clave: las estructuras incorporadas **existen al margen de la agencia**
+    -   Nuestras maneras de **enclasar** el mundo son un producto de estas estructuras, y se refuerzan con el sentido que les damos a partir de nuestra comprensión de estas.
+    -   Esto genera un mundo social potencial que a su vez nos orienta.
 
-    * Nuestras maneras de **enclasar** el mundo son un producto de estas estructuras, y se refuerzan con el sentido que les damos a partir de nuestra comprensión de estas.
-    * Esto genera un mundo social potencial que a su vez nos orienta.
-
-- ...les juro que suena más complicado de lo que es xd
-
+-   ...les juro que suena más complicado de lo que es en realidad xd
 :::
 
+## Bourdieu y la **clase**
+
+::: {.incremental .highlight-last style="font-size: 110%; padding: 1.5em;"}
+-   A diferencia de las tradiciones marxista (base material) y weberiana (base subjetiva), para Bourdieu la clase no es una entidad fija, sino una posición en un **espacio social multidimensional**
+
+-   Los procesos de enclasamiento son configuraciones dinámicas que resultan de la distribución de diferentes **tipos de capital**
+
+    -   Económico: Recursos materiales
+    -   Cultural: Disposiciones en el **gusto** y otras credenciales diferenciadoras
+    -   Social: redes y conexiones
+
+-   Como vimos anteriormente, todos estos capitales circulan y se vinculan **entre sí**
+:::
+
+## El Espacio Social
+
+::: {.incremental .highlight-last style="font-size: 110%; padding: 1.5em;"}
+-   Para Bourdieu, el **espacio social** es el nicho donde se anida el capital simbólico que dispone el **habitus** y se organiza en tres ejes:
+
+    -   Volumen total de capital: la gran diferencia entre la clase dominante y el resto
+    -   Composición del capital: distingue fracciones de acuerdo con el peso que tiene cada capital entre sí
+        -   Empresarios (capital económico) vs Académicos (capital cultural)
+        -   Trayectorias: dimensión temporal, vinculada a la movilidad y los cambios en la composión a lo largo de la biografía del sujeto.
+:::
+
+## Volviendo al habitus ¿dónde se ve?
+
+::: {.incremental .highlight-last style="font-size: 110%; padding: 1.5em;"}
+-   Las posiciones objetivas se conectan con las prácticas a través del habitus, ya que es específico a las condicones de vida de cada clase
+
+    -   Clase Dominante: desarrolla un habitus marcado por el "sentido de la distinción". La forma sobre la función.
+    -   Clase Trabajadora: encarna el "gusto de la necesidad". Primacía de la función sobre la forma, lo útil y moralmente significativo.
+
+-   El habitus articula una posición estructural con los estilos de vida, generando modos de existencia colectivos que permiten hablar de un **enclasamiento**
+:::
+
+## Estilos de vida y luchas clasificadoras
+
+::: {.incremental .highlight-last style="font-size: 100%; padding: 1.5em;"}
+-   El concepto de estilo de vida es central en Bourdieu. Pues, los consumos culturales y la gestualidad corporal, se organizan de forma coherente con la psoición en el espacio social.
+
+-   Estas son un resultado de lo que Bourdieu llama **luchas clasificatorias**
+
+    -   Elecciones de consumo con las que los individuos se clasifican y son clasificados por otros.
+    -   Se generan fronteras simbólicas que delimitan un "ellos" y un "nosotros".
+    -   La cultura legítima, aquella que se consagra como "superior", funciona como referencia y terreno de disputa.
+    -   Y a partir de esta es que se producen las clases sociales activamente.
+
+-   Acá entra en juego otro concepto importante y muchas veces mal entendido...
+:::
+
+## El poder simbólico
+
+::: {.incremental .highlight-last style="font-size: 110%; padding: 1.5em;"}
+-   En simple, es la capacidad de hacer pasar como legítimas ciertas divisiones a partir de ciertas disposiciones que no se ejercen de forma directa u objetiva.
+
+-   "Lo importante en el contrato social, es aquello que hay por fuera del contrato" (Bourdieu en "Sobre El Estado")
+
+-   Cuando las diferencias de capital se traducen en diferencias de prestigio o estatus, entonces hay una disputa de poder simbólico.
+
+-   Pero exploraremos este tema en profundidad la próxima semana.
+:::
+
+# ¿Dudas o consultas? {data-background-color="#5f5758"}
+
+Esta y todas mis ayudantías del semestre en: <https://github.com/renejcanales/SOL509>

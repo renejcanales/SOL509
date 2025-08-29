@@ -226,6 +226,24 @@ Yo nunca pago culo pero mi amiga lo arrienda
 -   Pero exploraremos este tema en profundidad la próxima semana.
 :::
 
+## Referencias
+
+
+- Bourdieu, P. (1979). La distinción: Criterio y bases sociales del gusto. Taurus: Madrid.
+
+- Bourdieu, P. (1991). El sentido práctico. Siglo XXI: Buenos Aires.
+
+- Chetty, R., Jackson, M.O., Kuchler, T. et al. Social capital II: determinants of economic connectedness. Nature 608, 122–134 (2022). https://doi.org/10.1038/s41586-022-04997-3
+
+- Michelman, V., Price, J., & Zimmerman, S. (2022). "Old Boys’ Clubs and Upward Mobility Among the Educational Elite", The Quarterly Journal of Economics, Volume 137, Issue 2. https://doi.org/10.1093/qje/qjab047
+
+- Weinenger, E. (2005). "Foundations of Pierre Bourdieu's Class Analysis". En Approaches to Class Analysis de Erik Olin Wright (ed.). Cambridge University Press.
+
+- Zhou, X. & Xie, Y. (2019). Market Transition, Industrialization, and Social Mobility Trends in Postrevolution China. American Journal of Sociology, 124:6, 1810-1847.
+
+
+
 # ¿Dudas o consultas? {data-background-color="#5f5758"}
 
 Esta y todas mis ayudantías del semestre en: <https://github.com/renejcanales/SOL509>
+

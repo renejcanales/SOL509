@@ -1,3 +1,4 @@
 # Clases
 
-[Pierre Bourdieu - La Distinción (1979)](https://SOL509.github.io/ayudantias/distinción.html)
+[Pierre Bourdieu - La Distinción (1979)](https://renejcanales.github.io/SOL509/Ayudantías/distincion.html)
+

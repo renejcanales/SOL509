@@ -38,7 +38,7 @@ editor_options:
 :::
 
 :::: {.column .column-right width="80%"}
-# **La Distinción (1979)** <br> **Pierre Bourdieu**
+# **Capital, gusto y clase** <br> **Pierre Bourdieu**
 
 ------------------------------------------------------------------------
 

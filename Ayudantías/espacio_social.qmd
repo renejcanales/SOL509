@@ -1,0 +1,145 @@
+---
+pagetitle: "Ayudantía Bourdieu"
+Author: René Canales
+lang: es
+knitr:
+  opts_chunk:
+    collapse: true
+    comment: "#>"
+    R.options:
+      
+      knitr.graphics.auto_pdf: true
+format:
+  revealjs:
+    #logo: images/puc.png
+    slide-number: true
+    theme: "libs/tesis.scss"
+    auto-stretch: false
+    title-slide-attributes:
+      visibility: false
+    transition: fade
+    transition-speed: slow
+# data-background-image: images/cover.jpg
+# data-background-size: cover
+    auto-play-media: true
+    mathjax: "default"
+  pdf:
+    format: beamer 
+    keep-tex: true  # Debug LaTeX output if needed
+editor_options: 
+  chunk_output_type: console
+---
+
+:::::: columns
+::: {.column .column-left width="20%"}
+![](images/lisa.png)
+
+![](images/ocs.png)
+:::
+
+:::: {.column .column-right width="80%"}
+# **Espacio Social, Capital y Génesis de Clase** <br> **Pierre Bourdieu**
+
+------------------------------------------------------------------------
+
+**René Canales Sellés** <br> **Magister(c) en Sociología UC** <br> **Investigador Asistente COES**
+
+::: {.red2 .medium}
+**Instituto de Sociología, Pontificia Universidad Católica de Chile**
+:::
+
+SOL509-1 Teorías Sociológicas Relacionales
+
+05 de agosto, 2025
+::::
+::::::
+
+# El Espacio Social
+
+::: {.incremental .highlight-last style="font-size: 100%;"}
+-   Intercambio de Dones -\> Mauss y la obligación
+
+-   El trabajo investido en una actividad se presenta como función equivalente en términos de intercambio
+
+-   Se institucionaliza la obligación de dar en ciertos términos como una **"fría paga al contado"**
+
+    -   Economicismo: la institucionalización del capital económico como medio válido de intercambio oculta las demás relaciones
+        -   Fetichismo de la Mercancía en Marx -\> Desconoce otras formas de intercambio
+    -   El materialismo para Bourdieu no está completo si no se contemplan aquellas estructuras que dan forma a las realidades concretas: hay una economía moral que rodea la comodificación.
+
+-   Sin embargo, este capital es **negado**, aunque es central para la circulación de capital total. Están intrínsecamente mezclados (Bourdieu, p.189)
+:::
+
+## Las clases "en el papel"
+
+::: {.incremental style="font-size: 90%;"}
+-   Bourdieu (p.190), presenta al capital simbólico como un **crédito** en el sentido que entrega **credibilidad**.
+
+-   En estudios sobre estratificación se habla de **prestigio** o **estatus** \[Barone et al., 2022\]
+
+    -   Por ejemplo: Los arreglos matrimoniales no se basan únicamente en términos de cantidad (lo que tiene cada familia) sino en la calidad (temas como el honor o la dignidad son más valiosos en muchos casos)
+    -   Tres ejemplos muy buenos:
+        -   Zhou & Xie (2019): Cómo las restricciones de movilidad en la China post-revolucionaria impactaron en la movilidad social.
+        -   Michelman et al. (2021): Estudio sobre el impacto que tienen los old boys clubs en universidades de elite sobre la movilidad social.
+        -   Chetty et al. (2022): Estudio con base de datos construida a partir de interacciones en redes sociales.
+:::
+
+## La **percepción** del mundo social
+
+::: {.incremental style="font-size: 90%;"}
+-   Bourdieu (p.190), presenta al capital simbólico como un **crédito** en el sentido que entrega **credibilidad**.
+
+-   En estudios sobre estratificación se habla de **prestigio** o **estatus** \[Barone et al., 2022\]
+
+    -   Por ejemplo: Los arreglos matrimoniales no se basan únicamente en términos de cantidad (lo que tiene cada familia) sino en la calidad (temas como el honor o la dignidad son más valiosos en muchos casos)
+    -   Tres ejemplos muy buenos:
+        -   Zhou & Xie (2019): Cómo las restricciones de movilidad en la China post-revolucionaria impactaron en la movilidad social.
+        -   Michelman et al. (2021): Estudio sobre el impacto que tienen los old boys clubs en universidades de elite sobre la movilidad social.
+        -   Chetty et al. (2022): Estudio con base de datos construida a partir de interacciones en redes sociales.
+:::
+
+## El orden **simbólico** y la dominación
+
+::: {.incremental style="font-size: 90%;"}
+-   Bourdieu (p.190), presenta al capital simbólico como un **crédito** en el sentido que entrega **credibilidad**.
+
+-   En estudios sobre estratificación se habla de **prestigio** o **estatus** \[Barone et al., 2022\]
+
+    -   Por ejemplo: Los arreglos matrimoniales no se basan únicamente en términos de cantidad (lo que tiene cada familia) sino en la calidad (temas como el honor o la dignidad son más valiosos en muchos casos)
+    -   Tres ejemplos muy buenos:
+        -   Zhou & Xie (2019): Cómo las restricciones de movilidad en la China post-revolucionaria impactaron en la movilidad social.
+        -   Michelman et al. (2021): Estudio sobre el impacto que tienen los old boys clubs en universidades de elite sobre la movilidad social.
+        -   Chetty et al. (2022): Estudio con base de datos construida a partir de interacciones en redes sociales.
+:::
+
+## El Campo Político
+
+::: {.incremental style="font-size: 90%;"}
+-   Bourdieu (p.190), presenta al capital simbólico como un **crédito** en el sentido que entrega **credibilidad**.
+
+-   En estudios sobre estratificación se habla de **prestigio** o **estatus** \[Barone et al., 2022\]
+
+    -   Por ejemplo: Los arreglos matrimoniales no se basan únicamente en términos de cantidad (lo que tiene cada familia) sino en la calidad (temas como el honor o la dignidad son más valiosos en muchos casos)
+    -   Tres ejemplos muy buenos:
+        -   Zhou & Xie (2019): Cómo las restricciones de movilidad en la China post-revolucionaria impactaron en la movilidad social.
+        -   Michelman et al. (2021): Estudio sobre el impacto que tienen los old boys clubs en universidades de elite sobre la movilidad social.
+        -   Chetty et al. (2022): Estudio con base de datos construida a partir de interacciones en redes sociales.
+:::
+
+## **La clase**: Representación y Voluntad
+
+::: {.incremental style="font-size: 90%;"}
+-   Bourdieu (p.190), presenta al capital simbólico como un **crédito** en el sentido que entrega **credibilidad**.
+
+-   En estudios sobre estratificación se habla de **prestigio** o **estatus** \[Barone et al., 2022\]
+
+    -   Por ejemplo: Los arreglos matrimoniales no se basan únicamente en términos de cantidad (lo que tiene cada familia) sino en la calidad (temas como el honor o la dignidad son más valiosos en muchos casos)
+    -   Tres ejemplos muy buenos:
+        -   Zhou & Xie (2019): Cómo las restricciones de movilidad en la China post-revolucionaria impactaron en la movilidad social.
+        -   Michelman et al. (2021): Estudio sobre el impacto que tienen los old boys clubs en universidades de elite sobre la movilidad social.
+        -   Chetty et al. (2022): Estudio con base de datos construida a partir de interacciones en redes sociales.
+:::
+
+# ¿Dudas o consultas? {data-background-color="#5f5758"}
+
+Esta y todas mis ayudantías del semestre en: <https://github.com/renejcanales/SOL509>

@@ -54,90 +54,69 @@ SOL509-1 Teorías Sociológicas Relacionales
 ::::
 ::::::
 
+
+# ANTES DE QUE PREGUNTEN {data-background-color="#5f5758"}
+
+Tanto esta como todas mis ayudantías del semestre están en: <https://github.com/renejcanales/SOL509>
+
+::: {.column .column-left width="40%"}
+![](images/repo.png)
+:::
+
+
+
+
+
 # El Espacio Social
 
 ::: {.incremental .highlight-last style="font-size: 100%;"}
--   Intercambio de Dones -\> Mauss y la obligación
-
--   El trabajo investido en una actividad se presenta como función equivalente en términos de intercambio
-
--   Se institucionaliza la obligación de dar en ciertos términos como una **"fría paga al contado"**
-
-    -   Economicismo: la institucionalización del capital económico como medio válido de intercambio oculta las demás relaciones
-        -   Fetichismo de la Mercancía en Marx -\> Desconoce otras formas de intercambio
-    -   El materialismo para Bourdieu no está completo si no se contemplan aquellas estructuras que dan forma a las realidades concretas: hay una economía moral que rodea la comodificación.
-
--   Sin embargo, este capital es **negado**, aunque es central para la circulación de capital total. Están intrínsecamente mezclados (Bourdieu, p.189)
+-   Bourdieu presenta la idea central de la **topología social**: la sociedad puede representarse como un espacio multidimensional definido por la distribución de distintos tipos de capital (económico, cultural, social y simbólico).
+-   Las posiciones de los agentes dependen tanto del volumen total de capital como de su composición. Cada campo funciona como un juego con reglas y jerarquías propias, pero interconectadas. El espacio social es, así, un campo de fuerzas que limita y orienta las posibilidades de acción de los agentes.
 :::
 
 ## Las clases "en el papel"
 
-::: {.incremental style="font-size: 90%;"}
--   Bourdieu (p.190), presenta al capital simbólico como un **crédito** en el sentido que entrega **credibilidad**.
-
--   En estudios sobre estratificación se habla de **prestigio** o **estatus** \[Barone et al., 2022\]
-
-    -   Por ejemplo: Los arreglos matrimoniales no se basan únicamente en términos de cantidad (lo que tiene cada familia) sino en la calidad (temas como el honor o la dignidad son más valiosos en muchos casos)
-    -   Tres ejemplos muy buenos:
-        -   Zhou & Xie (2019): Cómo las restricciones de movilidad en la China post-revolucionaria impactaron en la movilidad social.
-        -   Michelman et al. (2021): Estudio sobre el impacto que tienen los old boys clubs en universidades de elite sobre la movilidad social.
-        -   Chetty et al. (2022): Estudio con base de datos construida a partir de interacciones en redes sociales.
+::: {.incremental style="font-size: 120%;"}
+-   Explica que a partir de las posiciones en el espacio social se pueden construir “clases en papel”: categorías analíticas elaboradas por el sociólogo, comparables a las de un botánico.
+-   Estas no son clases reales movilizadas, sino agrupaciones probables de agentes con condiciones similares.
+-   Así, aunque las diferencias objetivas son reales, no se debe confundir la clasificación científica con un grupo movilizado en la práctica (distinción con la tradición marxista entre “clase en sí” y “clase para sí”).
 :::
 
 ## La **percepción** del mundo social
 
-::: {.incremental style="font-size: 90%;"}
--   Bourdieu (p.190), presenta al capital simbólico como un **crédito** en el sentido que entrega **credibilidad**.
-
--   En estudios sobre estratificación se habla de **prestigio** o **estatus** \[Barone et al., 2022\]
-
-    -   Por ejemplo: Los arreglos matrimoniales no se basan únicamente en términos de cantidad (lo que tiene cada familia) sino en la calidad (temas como el honor o la dignidad son más valiosos en muchos casos)
-    -   Tres ejemplos muy buenos:
-        -   Zhou & Xie (2019): Cómo las restricciones de movilidad en la China post-revolucionaria impactaron en la movilidad social.
-        -   Michelman et al. (2021): Estudio sobre el impacto que tienen los old boys clubs en universidades de elite sobre la movilidad social.
-        -   Chetty et al. (2022): Estudio con base de datos construida a partir de interacciones en redes sociales.
+::: {.incremental style="font-size: 120%;"}
+-   Aquí Bourdieu introduce el papel de la percepción y las luchas simbólicas.
+-   Los agentes no solo ocupan posiciones, sino que interpretan y representan el mundo social a través de categorías internalizadas (habitus).
+-   Estas percepciones tienden a reproducir las relaciones de poder, pero también son terreno de disputa: la lucha política es, en esencia, una lucha por imponer una visión legítima del mundo social.
+-   La distinción aparece como un efecto de esas percepciones y prácticas, no solo como una búsqueda consciente de diferenciarse.
 :::
 
 ## El orden **simbólico** y la dominación
 
-::: {.incremental style="font-size: 90%;"}
--   Bourdieu (p.190), presenta al capital simbólico como un **crédito** en el sentido que entrega **credibilidad**.
-
--   En estudios sobre estratificación se habla de **prestigio** o **estatus** \[Barone et al., 2022\]
-
-    -   Por ejemplo: Los arreglos matrimoniales no se basan únicamente en términos de cantidad (lo que tiene cada familia) sino en la calidad (temas como el honor o la dignidad son más valiosos en muchos casos)
-    -   Tres ejemplos muy buenos:
-        -   Zhou & Xie (2019): Cómo las restricciones de movilidad en la China post-revolucionaria impactaron en la movilidad social.
-        -   Michelman et al. (2021): Estudio sobre el impacto que tienen los old boys clubs en universidades de elite sobre la movilidad social.
-        -   Chetty et al. (2022): Estudio con base de datos construida a partir de interacciones en redes sociales.
+::: {.incremental style="font-size: 120%;"}
+- Desarrolla el poder del nombrar y clasificar. 
+- Desde insultos hasta títulos oficiales, el acto de nombrar organiza jerarquías sociales y fija posiciones. 
+- El Estado, como monopolizador de la nominación legítima (por ejemplo, títulos académicos o profesionales), tiene un rol fundamental en consagrar divisiones. 
+- Los nombres son capital simbólico institucionalizado y funcionan como bienes escasos que otorgan prestigio y derechos. La lucha por las clasificaciones es, por tanto, también una lucha política.
 :::
 
-## El Campo Político
+## El **Campo Político**
 
-::: {.incremental style="font-size: 90%;"}
--   Bourdieu (p.190), presenta al capital simbólico como un **crédito** en el sentido que entrega **credibilidad**.
-
--   En estudios sobre estratificación se habla de **prestigio** o **estatus** \[Barone et al., 2022\]
-
-    -   Por ejemplo: Los arreglos matrimoniales no se basan únicamente en términos de cantidad (lo que tiene cada familia) sino en la calidad (temas como el honor o la dignidad son más valiosos en muchos casos)
-    -   Tres ejemplos muy buenos:
-        -   Zhou & Xie (2019): Cómo las restricciones de movilidad en la China post-revolucionaria impactaron en la movilidad social.
-        -   Michelman et al. (2021): Estudio sobre el impacto que tienen los old boys clubs en universidades de elite sobre la movilidad social.
-        -   Chetty et al. (2022): Estudio con base de datos construida a partir de interacciones en redes sociales.
+::: {.incremental style="font-size: 120%;"}
+- Bourdieu examina cómo las posiciones dominadas en distintos campos pueden generar homologías que permiten alianzas (por ejemplo, entre intelectuales y trabajadores). 
+- Sin embargo, advierte que estas alianzas son ambiguas, pues las condiciones no son idénticas, aunque sean análogas. 
+- Critica la visión marxista por reducir el espacio social a una oposición binaria (propietarios vs. proletariado) y destaca que la política debe entenderse como un campo con su propia lógica, donde los partidos y sindicatos producen representaciones de grupos sociales y compiten por imponerlas.
 :::
 
 ## **La clase**: Representación y Voluntad
 
-::: {.incremental style="font-size: 90%;"}
--   Bourdieu (p.190), presenta al capital simbólico como un **crédito** en el sentido que entrega **credibilidad**.
-
--   En estudios sobre estratificación se habla de **prestigio** o **estatus** \[Barone et al., 2022\]
-
-    -   Por ejemplo: Los arreglos matrimoniales no se basan únicamente en términos de cantidad (lo que tiene cada familia) sino en la calidad (temas como el honor o la dignidad son más valiosos en muchos casos)
-    -   Tres ejemplos muy buenos:
-        -   Zhou & Xie (2019): Cómo las restricciones de movilidad en la China post-revolucionaria impactaron en la movilidad social.
-        -   Michelman et al. (2021): Estudio sobre el impacto que tienen los old boys clubs en universidades de elite sobre la movilidad social.
-        -   Chetty et al. (2022): Estudio con base de datos construida a partir de interacciones en redes sociales.
+::: {.incremental style="font-size: 115
+%;"}
+- Analiza el proceso por el cual los grupos adquieren existencia política. 
+- La magia social del representante (líder sindical, jefe de partido, ministro) consiste en “hacer existir” al grupo que nombra y representa. 
+- Así, la clase existe en tanto hay portavoces autorizados que hablan en su nombre y producen creencia en esa existencia. 
+- Esto genera una paradoja: los individuos solo pueden existir como fuerza colectiva al delegar poder en representantes, lo que a su vez produce riesgos de alienación política y fetichismo del liderazgo. 
+- La “clase obrera”, en este sentido, es un producto histórico y simbólico, sostenido por instituciones, discursos y la creencia compartida en su existencia.
 :::
 
 # ¿Dudas o consultas? {data-background-color="#5f5758"}
